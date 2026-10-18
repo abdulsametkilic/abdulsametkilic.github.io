@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AK">
+  <rect width="64" height="64" rx="12" fill="#0b0d0c"/>
+  <g fill="none" stroke="#f6f7f3" stroke-width="3" stroke-linecap="square">
+    <path d="M10 20V10h10"/>
+    <path d="M44 10h10v10"/>
+    <path d="M54 44v10H44"/>
+    <path d="M20 54H10V44"/>
+  </g>
+  <text x="32" y="40" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="20" font-weight="600" fill="#ecefe9">AK</text>
+</svg>
